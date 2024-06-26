@@ -9,4 +9,4 @@ the framework is:
 
 and some of the results for two public datasets and one case study from the north of Portugal are:
 
-![img_result]()
+![img_result](https://github.com/NarjesDavari/Satellite-Change-Detection/blob/main/img_result.png)
